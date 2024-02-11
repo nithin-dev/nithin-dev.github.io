@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.mailcheck",
+    "sha256_cert_fingerprints":
+    ["F9:EA:C9:7C:C8:DC:39:93:C4:83:E1:D6:C3:72:BC:F3:48:70:4D:09:55:53:7F:1D:AB:9E:CC:A3:61:27:1F:E4"]
+  }
+}]
